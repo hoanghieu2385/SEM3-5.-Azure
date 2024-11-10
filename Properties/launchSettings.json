@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SEM3_5._Azure": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7225",
+      "launchBrowser": false
+    }
+  }
+}
