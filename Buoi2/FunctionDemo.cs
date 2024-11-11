@@ -17,8 +17,6 @@ namespace FPTAptech.T2308M
         [Function("FunctionDemo")]
         public IActionResult Run([HttpTrigger(AuthorizationLevel.Anonymous, "get", "post")] HttpRequest req)
         {
-            var request = req.Body;
-            System.Console.WriteLine($"Body {request}");
             _logger.LogInformation("C# HTTP trigger function processed a request.");
             return new OkObjectResult("Welcome to Azure Functions!");
         }
