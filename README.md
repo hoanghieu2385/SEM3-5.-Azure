@@ -1,4 +1,10 @@
 # SEM3-5.-Azure
+---
+### Buổi 1:
+dotnet add package Microsoft.EntityFrameworkCore.Tools
+dotnet add package Microsoft.EntityFrameworkCore
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+dotnet add package Microsoft.EntityFrameworkCore.Design
 
 ---
 ### Buổi 2:
@@ -16,7 +22,10 @@
 
 ---
 ### Buổi 3:
-- 
+- Severless
+- khác nhau azure function vs web api
+  + azure là do bên azure hỗ trợ quản lí
+  + web api là phải quản lí 1 cách thủ côn
 - 
 
 
