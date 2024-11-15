@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hoang Hieu\\Documents\\Code learn\\Hoc_Ky_3\\SEM3-5.-Azure\\Buoi2\\FunctionDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0ED7B6-7860-47B3-A43A-094D7D5CEFDC}|FunctionDemo\\FunctionDemo.csproj|c:\\users\\hoang hieu\\documents\\code learn\\hoc_ky_3\\sem3-5.-azure\\buoi2\\functiondemo\\functiondemo\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0ED7B6-7860-47B3-A43A-094D7D5CEFDC}|FunctionDemo\\FunctionDemo.csproj|solutionrelative:functiondemo\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0ED7B6-7860-47B3-A43A-094D7D5CEFDC}|FunctionDemo\\FunctionDemo.csproj|c:\\users\\hoang hieu\\documents\\code learn\\hoc_ky_3\\sem3-5.-azure\\buoi2\\functiondemo\\functiondemo\\classfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0ED7B6-7860-47B3-A43A-094D7D5CEFDC}|FunctionDemo\\FunctionDemo.csproj|solutionrelative:functiondemo\\classfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0ED7B6-7860-47B3-A43A-094D7D5CEFDC}|FunctionDemo\\FunctionDemo.csproj|c:\\users\\hoang hieu\\documents\\code learn\\hoc_ky_3\\sem3-5.-azure\\buoi2\\functiondemo\\functiondemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F0ED7B6-7860-47B3-A43A-094D7D5CEFDC}|FunctionDemo\\FunctionDemo.csproj|solutionrelative:functiondemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0ED7B6-7860-47B3-A43A-094D7D5CEFDC}|FunctionDemo\\FunctionDemo.csproj|c:\\users\\hoang hieu\\documents\\code learn\\hoc_ky_3\\sem3-5.-azure\\buoi2\\functiondemo\\functiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0ED7B6-7860-47B3-A43A-094D7D5CEFDC}|FunctionDemo\\FunctionDemo.csproj|solutionrelative:functiondemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Hieu\\Documents\\Code learn\\Hoc_Ky_3\\SEM3-5.-Azure\\Buoi2\\FunctionDemo\\FunctionDemo\\ClassFunction.cs",
+              "RelativeDocumentMoniker": "FunctionDemo\\ClassFunction.cs",
+              "ToolTip": "C:\\Users\\Hoang Hieu\\Documents\\Code learn\\Hoc_Ky_3\\SEM3-5.-Azure\\Buoi2\\FunctionDemo\\FunctionDemo\\ClassFunction.cs",
+              "RelativeToolTip": "FunctionDemo\\ClassFunction.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:55:40.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Hieu\\Documents\\Code learn\\Hoc_Ky_3\\SEM3-5.-Azure\\Buoi2\\FunctionDemo\\FunctionDemo\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FunctionDemo\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Hoang Hieu\\Documents\\Code learn\\Hoc_Ky_3\\SEM3-5.-Azure\\Buoi2\\FunctionDemo\\FunctionDemo\\AppDbContext.cs",
+              "RelativeToolTip": "FunctionDemo\\AppDbContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:07:29.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hoang Hieu\\Documents\\Code learn\\Hoc_Ky_3\\SEM3-5.-Azure\\Buoi2\\FunctionDemo\\FunctionDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "FunctionDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hoang Hieu\\Documents\\Code learn\\Hoc_Ky_3\\SEM3-5.-Azure\\Buoi2\\FunctionDemo\\FunctionDemo\\appsettings.json",
+              "RelativeToolTip": "FunctionDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-13T03:00:34.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Hieu\\Documents\\Code learn\\Hoc_Ky_3\\SEM3-5.-Azure\\Buoi2\\FunctionDemo\\FunctionDemo\\Program.cs",
+              "RelativeDocumentMoniker": "FunctionDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Hoang Hieu\\Documents\\Code learn\\Hoc_Ky_3\\SEM3-5.-Azure\\Buoi2\\FunctionDemo\\FunctionDemo\\Program.cs",
+              "RelativeToolTip": "FunctionDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T02:52:48.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

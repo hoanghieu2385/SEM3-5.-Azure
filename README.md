@@ -26,9 +26,19 @@ dotnet add package Microsoft.EntityFrameworkCore.Design
 - khác nhau azure function vs web api
   + azure là do bên azure hỗ trợ quản lí
   + web api là phải quản lí 1 cách thủ côn
-- 
 
+---
+### Buổi 4:
+- Các bước làm:
+  + add package
+  + add Models
+  + tạo DBContext
+  + sử dụng DBContext
+    - đăng ký ở program
+    - sử dụng ở function
 
 ---
 ### Buổi :
 - 
+
+
