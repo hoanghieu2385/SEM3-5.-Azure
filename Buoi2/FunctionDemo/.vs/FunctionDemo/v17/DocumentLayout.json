@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "FunctionDemo\\ClassFunction.cs",
               "ToolTip": "C:\\Users\\Hoang Hieu\\Documents\\Code learn\\Hoc_Ky_3\\SEM3-5.-Azure\\Buoi2\\FunctionDemo\\FunctionDemo\\ClassFunction.cs",
               "RelativeToolTip": "FunctionDemo\\ClassFunction.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwC0AAABHAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T03:55:40.723Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "FunctionDemo\\AppDbContext.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T03:07:29.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T03:07:29.789Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "FunctionDemo\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-13T03:00:34.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T03:00:34.959Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "FunctionDemo\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T02:52:48.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T02:52:48.937Z"
             }
           ]
         }
